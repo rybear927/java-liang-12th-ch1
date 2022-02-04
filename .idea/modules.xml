@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-liang-12th-ch1.iml" filepath="$PROJECT_DIR$/.idea/java-liang-12th-ch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-liang-12th-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-liang-12th-exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>

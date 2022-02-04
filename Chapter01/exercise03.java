@@ -1,4 +1,4 @@
-//(Display a pattern) Write a program that displays the following pattern:
+package Chapter01;//(Display a pattern) Write a program that displays the following pattern:
 //J
 //J aaa v vaaa
 //J J aa vv a a

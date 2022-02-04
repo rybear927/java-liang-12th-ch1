@@ -1,3 +1,5 @@
+package Chapter01;
+
 //(Print a table) Write a program that displays the following table:
 //aa^2a^3a^4
 //1 1 1 1

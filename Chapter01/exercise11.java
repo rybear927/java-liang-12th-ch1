@@ -1,4 +1,4 @@
-//1.11 (Population projection) The U.S. Census Bureau projects population based on
+package Chapter01;//1.11 (Population projection) The U.S. Census Bureau projects population based on
 //the following assumptions:
 //■■ One birth every 7 seconds
 //■■ One death every 13 seconds
@@ -12,9 +12,9 @@
 
 public class exercise11 {
     public static void main(String[] args) {
-        double birthsPerYear = (365.0 * 24 * 60) / 7;
-        double deathsPerYear = (365.0 * 24 * 60) / 13;
-        double newImmigrantsPerYear = (365.0 * 24 * 60) / 45;
+        double birthsPerYear = (365.0 * 24 * 60 * 60) / 7;
+        double deathsPerYear = (365.0 * 24 * 60 * 60) / 13;
+        double newImmigrantsPerYear = (365.0 * 24 * 60 * 60) / 45;
         double year1 = 312032486;
         double year2 = year1 + birthsPerYear - deathsPerYear + newImmigrantsPerYear;
         double year3 = year2 + birthsPerYear - deathsPerYear + newImmigrantsPerYear;
