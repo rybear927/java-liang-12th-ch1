@@ -1,52 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
+    </loaded-modules>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe7c3cd-154a-4c4d-b617-c1768ea8d09c" name="Changes" comment="chapter 2 done">
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter03/exercise35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter04/exercise26.java" afterDir="false" />
+    <list default="true" id="ebe7c3cd-154a-4c4d-b617-c1768ea8d09c" name="Changes" comment="chapter 4 done">
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/exercise51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java-liang-12th-exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-liang-12th-edition-exercises-ch01to05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter03/exercise19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter03/exercise19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter03/exercise17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter03/exercise17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter01/exercise13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter02/exercise23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter03/exercise35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/Chapter04/exercise26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-liang-12th-exercises/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +208,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Chapter05" />
       <recent name="Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exercise26">
-    <configuration name="exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.exercise22" />
-      <module name="java-liang-12th-exercises" />
+  <component name="RunManager" selected="Application.exercise51">
+    <configuration name="exercise47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.exercise47" />
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.exercise23" />
-      <module name="java-liang-12th-exercises" />
+    <configuration name="exercise48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.exercise48" />
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.exercise24" />
-      <module name="java-liang-12th-exercises" />
+    <configuration name="exercise49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.exercise49" />
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.exercise25" />
-      <module name="java-liang-12th-exercises" />
+    <configuration name="exercise50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.exercise50" />
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,26 +265,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter04.exercise26" />
-      <module name="java-liang-12th-exercises" />
+    <configuration name="exercise51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter05.exercise51" />
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter04.*" />
+          <option name="PATTERN" value="Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-liang-12th-edition-exercises-ch01to05" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercise26" />
-        <item itemvalue="Application.exercise25" />
-        <item itemvalue="Application.exercise24" />
-        <item itemvalue="Application.exercise23" />
-        <item itemvalue="Application.exercise22" />
+        <item itemvalue="Application.exercise51" />
+        <item itemvalue="Application.exercise50" />
+        <item itemvalue="Application.exercise49" />
+        <item itemvalue="Application.exercise48" />
+        <item itemvalue="Application.exercise47" />
       </list>
     </recent_temporary>
   </component>
@@ -210,8 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1644000397313</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter 4 done">
+      <created>1645108769746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645108769746</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="untitled" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -227,6 +365,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d" />
     <MESSAGE value="chapter 2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 2 done" />
+    <MESSAGE value="chapter 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 4 done" />
   </component>
 </project>

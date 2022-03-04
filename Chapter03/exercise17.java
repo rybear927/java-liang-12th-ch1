@@ -55,7 +55,7 @@ public class exercise17 {
             System.out.print(" You won.");
         } else if (guess == 1 && computerGuess == 2) {
             System.out.print(" You lost.");
-        } else if (guess == 1 && computerGuess == 3) {
+        } else if (guess == 1 && computerGuess == 0) {
             System.out.print(" You won.");
         } else if (guess == 2 && computerGuess == 0) {
             System.out.print(" You lost.");
