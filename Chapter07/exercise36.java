@@ -13,12 +13,13 @@ package Chapter07;
 //| | | |Q| | | | |
 
 public class exercise36 {
+    //note: so what's supposed to happen is that it looks at the queens before and sees if there's a problem.
+    //If there's a problem, it moves the current queen forward by one.
+    //If the current queen hits the end of the row, then it moves it back off the board and moves the previous queen
+    //forward by one, and then continues moving the current queen forward by one and checking. That's what's supposed to happen.
+    //What really happens is it ends up moving the previous queen all the way to the end of the row. But somehow that still works
+    //and I'm still happy that at least I found an answer.
     public static void main(String[] args) {
-//        int[] array = new int[8];
-//        for (int i = 0; i < array.length; i++) {
-//            array[i] = -1;
-//        }
-
         int[] array = {-1, -1, -1, -1, -1, -1, -1, -1};
 
         for (int i = 0; i < 8; i++) {
@@ -26,24 +27,6 @@ public class exercise36 {
 
         }
         printBoard(array);
-
-
-
-        //put  a queen down
-            //any conflicts?
-                //if not, repeat
-                //if yes
-                    //if queen is at pos 7, move the previous queen up one
-                    //else, move queen to next spot
-
-        //non-recursive way:
-        //while loop
-        //if 0 not placed, place 0
-        //else if 1 not placed, place 1
-        //else if 2 not placed, place 2
-        //etc.
-        //check as you go?
-        //after 7 is placed, exit loop and print game
 
     }
 
@@ -57,6 +40,7 @@ public class exercise36 {
                 array[position] = -1;
                 placeAQueen(position - 1, array);
             }
+            printBoard(array);
         } while (hasConflict(position, array) || array[position] == -1);
 
     }

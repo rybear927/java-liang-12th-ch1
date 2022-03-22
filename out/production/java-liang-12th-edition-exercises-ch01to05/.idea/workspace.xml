@@ -7,47 +7,48 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe7c3cd-154a-4c4d-b617-c1768ea8d09c" name="Changes" comment="chapter 6 done">
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/exercise36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/helperMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnfinishedExercises/exercise28.java" afterDir="false" />
+    <list default="true" id="ebe7c3cd-154a-4c4d-b617-c1768ea8d09c" name="Changes" comment="chapter 7 done">
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/exercise36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter08/helperMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter07/exercise36.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter07/exercise36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-edition-exercises-ch01to05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-liang-12th-edition-exercises-ch01to05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-liang-12th-edition-exercises-ch01to05/Chapter07/exercise36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-liang-12th-edition-exercises-ch01to05/Chapter07/exercise36.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -104,12 +106,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.exercise36">
-    <configuration name="exercise32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07.exercise32" />
+    <configuration name="exercise31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter08.exercise31" />
       <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter07.*" />
+          <option name="PATTERN" value="Chapter08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="exercise33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07.exercise33" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.exercise33" />
       <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter07.*" />
+          <option name="PATTERN" value="Chapter08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="exercise34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07.exercise34" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.exercise34" />
       <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter07.*" />
+          <option name="PATTERN" value="Chapter08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +146,11 @@
       </method>
     </configuration>
     <configuration name="exercise35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07.exercise35" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.exercise35" />
       <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter07.*" />
+          <option name="PATTERN" value="Chapter08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +159,11 @@
       </method>
     </configuration>
     <configuration name="exercise36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter07.exercise36" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.exercise36" />
       <module name="java-liang-12th-edition-exercises-ch01to05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter07.*" />
+          <option name="PATTERN" value="Chapter08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,7 +177,7 @@
         <item itemvalue="Application.exercise35" />
         <item itemvalue="Application.exercise34" />
         <item itemvalue="Application.exercise33" />
-        <item itemvalue="Application.exercise32" />
+        <item itemvalue="Application.exercise31" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646995334888</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chapter 7 done">
+      <created>1647527552405</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647527552405</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnloadedModulesList">
@@ -260,6 +269,17 @@
     <MESSAGE value="chapter 4 done" />
     <MESSAGE value="chapter 5 done" />
     <MESSAGE value="chapter 6 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 6 done" />
+    <MESSAGE value="chapter 7 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 7 done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
